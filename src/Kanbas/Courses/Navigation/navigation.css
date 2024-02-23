@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none; 
+    background-color: white;
+    padding: 0; 
+    margin: 10; 
+}
+
+li {
+    padding: 5px; 
+    margin: 5px 0; 
+}
+
+li a {
+    
+    color: red;
+    text-decoration: none; 
+}
+
+.fa {
+    
+    color: red; 
+    margin-right: 10px; 
+}
+
+.wd-navigation li a {
+    
+    color: red; 
+    text-decoration: none;
+    
+  }
+  
+  .wd-navigation li.wd-active a {
+    
+
+    color: black; 
+  }
+  
