@@ -29,7 +29,7 @@ function Home() {
 
       {/* Right Column */}
       <div style={{ flex: 1 }}>
-      <div style={{ position: 'fixed', right: 50 }}>
+      <div style={{ right: 50 }}>
       <div>
           <div style={{ marginBottom: '10px' }}>
                {/* Vertically Aligned Buttons with fixed size */}
